@@ -1,0 +1,7 @@
+# Introduction #
+
+Its the ultimate OSx86 Do-It-All. Anything that previously required boring Terminal commands is now replaced with a friendly GUI, and you can have complete control over the actions with a click of a button! With intuitive wizards and easy tasks, this is a must-have for any OSx86 user.
+
+# Details #
+
+This is just the downloads server for OSX86Tools for downloading this project. Please visit the official OSX886Tools site at: http://osx86tools.pcwizcomputer.com
